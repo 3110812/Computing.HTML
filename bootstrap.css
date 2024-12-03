@@ -1,0 +1,25 @@
+.main{
+    color:black;
+    background-color: red;
+    padding: 20px;
+
+}
+nav{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ffffff;
+  }
+
+
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+ul{
+    color: white;
+}
